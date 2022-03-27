@@ -7,3 +7,4 @@ echo : to write a text
 git commit-m : to commit a change
 git add . : to add a change
 git push : to push your changes to server
+git pull: to pull your file from the server
