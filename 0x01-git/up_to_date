@@ -1,0 +1,9 @@
+cd : change directory
+rm -r : delete a file
+mkdir: to create a directory
+git branch: to create a branch
+touch : to create a file
+echo : to write a text
+git commit-m : to commit a change
+git add . : to add a change
+git push : to push your changes to server
